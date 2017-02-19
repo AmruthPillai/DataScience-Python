@@ -5,4 +5,6 @@ Course URL: https://www.udemy.com/data-science-and-machine-learning-with-python-
 
 --
 
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-F86GHHXF.jpg" />
+
 So, I finished this course and all I got was this certificate of completion: https://www.udemy.com/certificate/UC-F86GHHXF/ and a handful of knowledge I'd say. This was seriously a really good course on Data Science. I'd recommend it to beginners in a heartbeat, since he deals with a lot of complex topics in simple vernacular.
